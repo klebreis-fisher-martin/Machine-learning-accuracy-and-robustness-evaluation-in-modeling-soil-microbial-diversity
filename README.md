@@ -1,0 +1,2 @@
+# Application-of-Machine-Learning-in-Predicting-Soil-Microbial-Diversity
+Research on factors in soil microbial diversity has limitations, and predictive models often exhibit low accuracy or regional constraints. This study employs machine learning to develop models and identify key factors. The findings provide biological insights and practical references for environmental protection and agricultural development.
