@@ -1,2 +1,2 @@
-# Application-of-Machine-Learning-in-Predicting-Soil-Microbial-Diversity
+# Machine learning accuracy and robustness evaluation in modeling soil microbial diversity
 Soil microbial diversity, as reflected by eDNA diversity, is a critical indicator of soil nutrient status and regional ecological diversity, with strong ties to local ecology and climate. However, research on influencing factors remains with limitations, and predictive models often exhibit low accuracy or regional constraints. This study employs five machine learning algorithms to develop predictive models and identify key factors. The findings provide biological insights and practical references for environmental protection and agricultural development.
